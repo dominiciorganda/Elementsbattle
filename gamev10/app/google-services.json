@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154869991752",
+    "firebase_url": "https://elementsbattle-71a04.firebaseio.com",
+    "project_id": "elementsbattle-71a04",
+    "storage_bucket": "elementsbattle-71a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154869991752:android:0ca52df2dbee2627c7cb7d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154869991752-eqcm37o32ihppmqkdov20mmm2n5jkipf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "121f82aeb2e58429f48be9e211f3bff7a1fd3a2a"
+          }
+        },
+        {
+          "client_id": "154869991752-ndncrr6d7ej9a0k18u1m9n5sh5ljl7k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2JXjFrdQiKgGJA_RMAQuVYnYJnpF2P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154869991752-ndncrr6d7ej9a0k18u1m9n5sh5ljl7k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
